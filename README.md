@@ -1,5 +1,5 @@
 # Ritu-Raj
-<h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
+<h1 align="center">Hi 👋, I'm Ritu Raj</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**
 
-- 📫 How to reach me **adarsh@example.com**
+- 📫 How to reach me **adarshkishan654@gamil.com**
 
-- 📄 Know about my experiences [Resume](link-to-your-resume)
+- 📄 Know about my experiences [Resume]()
 
 - ⚡ Fun fact **I love debugging more than coding 😄**
 
@@ -35,14 +35,14 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshsingh&show_icons=true&locale=en" alt="adarshsingh" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh" alt="adarshsingh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RituRaj&show_icons=true&locale=en" alt="RituRaj" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RituRaj" alt="RituRaj" />
 </p>
 
 ---
 
 ### 🌐 Connect with me:
 <p>
-  <a href="https://linkedin.com/in/adarsh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="adarsh" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/Ritu" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="adarsh" height="30" width="30" /></a>
   <a href="mailto:adarsh@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" /></a>
 </p>
